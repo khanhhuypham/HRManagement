@@ -1,0 +1,16 @@
+employeeID,Employee name,Phone number,Mail,The number of working days,Salary of a working day,Entitle,Department,Subordinate,stock
+S001,Pham Khanh Huy,909123545,huypham@gmail.com,20,null,Employee,Marketing & Sale,0,0
+S002,Vuong Gia Hoa,909153546,hoavuong@gmail.com,21,null,Head of Department,HR,5,0
+S003,Diep Duong Phat,909163547,phatduong@gmail.com,22,null,Head of Department,Tech,4,0
+S004,Chau Hong Phuc,909923548,phucchau@gmail.com,23,null,Manager,Tech,0,500
+S005,Pham Huu Quyen,909123549,quyenpham@gmail.com,24,null,Employee,Marketing & Sale,0,0
+S006,Nguyen Hoan Tuan,909123050,tuannguyen@gmail.com,25,null,Employee,HR,0,0
+S007,Nguyen Hoang Son,909123551,sonnguyen@gmail.com,26,null,Head of Department,Marketing & Sale,5,0
+S008,Nguyen Tuan Thanh,909123452,thanhnguyen@gmail.com,27,null,Employee,HR,0,0
+S009,Tran Vi Thanh,946120553,thanhtran@gmail.com,28,null,Employee,Tech,0,0
+S010,Nguyen Dang Khoa,912121554,khoanguyen@gmail.com,29,null,Employee,Marketing & Sale,0,0
+S011,Tran Thong,945121555,thongtran@gmail.com,30,null,Employee,HR,0,0
+S012,Truong Cong Dinh,954121556,dinh@gmail.com,31,null,Employee,Marketing & Sale,0,0
+S013,Nguyen Vu Van,923121557,vuvan@gmail.com,31,null,Employee,Tech,0,0
+S014,Nguyen Anh Tuan,904121558,anhtuan@gmail.com,29,null,Employee,Tech,0,0
+S015,Pham Cong Minh,904121559,minhpham@gmail.com,30,null,Employee,HR,0,0
